@@ -1,3 +1,4 @@
 a.c
 new line
-three 
+three
+four
